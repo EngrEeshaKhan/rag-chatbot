@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <head>
+        <title>RAG AI Document Search</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>AI document search</h1>
+            <!----------------------upload pdf-------------------------------------->
+            <div class="box">
+                <h2>Upload PDF</h2>
+                <input type="file" id="pdfFile">
+                <button onclick="uploadPDF()">Upload</button>
+                <p id="uploadStatus"></p>
+            </div>
+            <!----------------------ask question-->
+            <div class="box">
+                <h2>Ask a Question</h2>
+                <input type="text" id="question" placeholder="Type your question here...">
+                <button onclick="askQuestion()">Ask</button>
+                <p id="answer"></p>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
