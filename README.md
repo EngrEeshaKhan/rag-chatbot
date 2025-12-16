@@ -32,7 +32,8 @@ The system integrates PDF processing, text chunking, vector embeddings, similari
 
 ## Architecture
 
-<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/49483a34-631f-496c-be0e-eb9199f07dd3" />
+<img width="300 height="450" alt="image" src="https://github.com/user-attachments/assets/49483a34-631f-496c-be0e-eb9199f07dd3" />
+
 
 
 
