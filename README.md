@@ -32,35 +32,7 @@ The system integrates PDF processing, text chunking, vector embeddings, similari
 
 ## Architecture
 
- ┌──────────────────────────────┐
- │        User (Frontend)       │
- │   - Upload PDF               │
- │   - Ask Question             │
- └───────────────┬──────────────┘
-                 │ HTTP API
-                 ▼
- ┌──────────────────────────────────┐
- │        FastAPI Backend           │
- │  - File Upload Endpoint          │
- │  - Question Answer Endpoint      │
- └───────────────┬──────────────────┘
-                 │ Python Functions
-                 ▼
- ┌──────────────────────────────────┐
- │      LangChain RAG Pipeline      │
- │ 1. Load PDF                      │
- │ 2. Extract Text                  │
- │ 3. Chunk Text (splitter)         │
- │ 4. Embed using MiniLM            │
- │ 5. Store vectors in FAISS        │
- │ 6. Query → Search FAISS          │
- │ 7. Build context                 │
- └───────────────┬──────────────────┘
-                 │
-                 ▼
- ┌──────────────────────────────────┐
- │          Local LLM               │
- │      Llama 3.1 via Ollama       │
- │  - Generates final answer        │
- └──────────────────────────────────┘
+<img width="134" height="286" alt="image" src="https://github.com/user-attachments/assets/49483a34-631f-496c-be0e-eb9199f07dd3" />
+
+
 
