@@ -69,8 +69,6 @@ rag-chatbot/
 │ │ init.py
 │ │
 │ └───uploads
-│ 2021-SE-01,02_Assigment#01_HCI.pdf
-│ 2021-SE-01_Assignment1_Entrepreneur.pdf
 │
 └───frontend
 index.html
@@ -78,6 +76,7 @@ script.js
 style.css
 
 ```
+
 
 
 
