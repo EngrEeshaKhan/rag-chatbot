@@ -36,6 +36,14 @@ The system integrates PDF processing, text chunking, vector embeddings, similari
 
 
 
+---
+
+## Project Structure
+
+
+
+
+
 
 
 
