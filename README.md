@@ -107,7 +107,25 @@ venv\Scripts\activate     # Windows
 
 2. Install dependencies:
 
-pip install -r backend/requirements.txt
+```bash
+ pip install -r backend/requirements.txt
+```
+
+Docker Setup
+
+1. Build Docker image:
+```bash
+docker build -t rag-chatbot .
+```
+
+2.Run Docker container:
+```bash
+docker run -it -p 8000:8000 rag-chatbot
+```
+
+Backend available at http://localhost:8000.
+
+Open frontend/index.html to upload PDFs and ask questions.
 
 
 
