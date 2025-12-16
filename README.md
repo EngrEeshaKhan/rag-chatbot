@@ -103,10 +103,12 @@ style.css
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
+```
 
 2. Install dependencies:
 
 pip install -r backend/requirements.txt
+
 
 
 
