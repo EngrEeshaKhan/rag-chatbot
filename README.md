@@ -77,16 +77,21 @@ style.css
 
 ```
 
-## Tech Stack
+## Features
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
+- 🔗 **LangChain** — Implements the RAG pipeline  
+- ⚡ **FastAPI** — Backend server for handling API requests  
+- 🎨 **HTML / CSS / JavaScript** — Frontend for file upload and Q&A  
+- 🧠 **MiniLM Embeddings** — Embedding model for vector representation  
+- 📊 **FAISS** — Vector database for similarity search  
+- 🤖 **Llama 3.1 (Ollama)** — Local LLM for generating answers  
+
+### API Endpoints
+- 📤 `/upload` — Upload PDF files  
+- ❓ `/ask` — Ask questions about uploaded PDFs  
+
+- 🐳 **Docker Support** — Containerized deployment
+
 
 
 
