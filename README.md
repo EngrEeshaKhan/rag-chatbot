@@ -40,6 +40,44 @@ The system integrates PDF processing, text chunking, vector embeddings, similari
 
 ## Project Structure
 
+```
+
+rag-chatbot/
+│ .gitignore
+│ Dockerfile
+│ LICENSE
+│ README.md
+│
+├───backend
+│ │ config.py
+│ │ main.py
+│ │ requirements.txt
+│ │
+│ ├───data
+│ │ └───faiss_index
+│ │ index.faiss
+│ │ metadata.json
+│ │
+│ ├───rag
+│ │ embeddings.py
+│ │ llm.py
+│ │ loader.py
+│ │ pipeline.py
+│ │ retriever.py
+│ │ splitter.py
+│ │ vectordb.py
+│ │ init.py
+│ │
+│ └───uploads
+│ 2021-SE-01,02_Assigment#01_HCI.pdf
+│ 2021-SE-01_Assignment1_Entrepreneur.pdf
+│
+└───frontend
+index.html
+script.js
+style.css
+
+```
 
 
 
