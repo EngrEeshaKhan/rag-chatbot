@@ -111,7 +111,7 @@ venv\Scripts\activate     # Windows
  pip install -r backend/requirements.txt
 ```
 
-Docker Setup
+### Docker Setup
 
 1. Build Docker image:
 ```bash
@@ -126,6 +126,7 @@ docker run -it -p 8000:8000 rag-chatbot
 Backend available at http://localhost:8000.
 
 Open frontend/index.html to upload PDFs and ask questions.
+
 
 
 
