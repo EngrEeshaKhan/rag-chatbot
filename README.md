@@ -128,6 +128,20 @@ Backend available at http://localhost:8000.
 Open frontend/index.html to upload PDFs and ask questions.
 
 
+## Usage
+
+Upload your PDF via the frontend.
+
+Ask your question.
+
+Backend searches FAISS for relevant chunks and generates an answer using Llama 3.1.
+
+Receive context-aware answers.
+
+## License
+
+This project is licensed under the MIT License — free to use, modify, and distribute.
+
 
 
 
