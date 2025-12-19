@@ -32,7 +32,7 @@ The system integrates PDF processing, text chunking, vector embeddings, similari
 
 ## Architecture
 
-<img width="250" height="400" alt="image" src="https://github.com/user-attachments/assets/9d66d08c-4ecc-4846-9b1c-ec97cb77eaf6" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/9d66d08c-4ecc-4846-9b1c-ec97cb77eaf6" />
 
 
 
@@ -140,6 +140,7 @@ Receive context-aware answers.
 ## License
 
 This project is licensed under the **MIT** License — free to use, modify, and distribute.
+
 
 
 
