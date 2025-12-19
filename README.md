@@ -1,6 +1,6 @@
 # RAG Chatbot
 
-A **Retrieval-Augmented Generation (RAG) Chatbot** that allows users to upload PDF documents and ask questions. The chatbot provides **context-aware answers** by combining a **LangChain RAG pipeline**, **FAISS vector database**, and a **local LLM (Llama 3.1 via Ollama)**.
+A **Retrieval-Augmented Generation (RAG) Chatbot** that allows users to upload PDF documents and ask questions. The chatbot provides **context-aware answers** by combining a **LangChain RAG pipeline**, **FAISS vector database**, and a **local LLM as (Llama 3.1 via Ollama)**.
 
 ---
 
@@ -140,6 +140,7 @@ Receive context-aware answers.
 ## License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
+
 
 
 
