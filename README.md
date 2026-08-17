@@ -133,7 +133,7 @@ Upload your PDF via the frontend
 
 Ask your question
 
-Backend searches FAISS for relevant chunks and generates an answer using Llama 3.1.
+Backend searches FAISS for relevant chunks and generates an answer using Llama 3.1
 
 Receive context-aware answers.
 
