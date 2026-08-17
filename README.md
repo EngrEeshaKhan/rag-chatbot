@@ -129,7 +129,7 @@ Open frontend/index.html to upload PDFs and ask questions
 
 ## Usage
 
-Upload your PDF via the frontend.
+Upload your PDF via the frontend
 
 Ask your question.
 
