@@ -131,7 +131,7 @@ Open frontend/index.html to upload PDFs and ask questions
 
 Upload your PDF via the frontend
 
-Ask your question.
+Ask your question
 
 Backend searches FAISS for relevant chunks and generates an answer using Llama 3.1.
 
