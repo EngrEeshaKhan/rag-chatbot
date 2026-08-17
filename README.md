@@ -135,7 +135,7 @@ Ask your question
 
 Backend searches FAISS for relevant chunks and generates an answer using Llama 3.1
 
-Receive context-aware answers.
+Receive context-aware answers
 
 ## License
 
