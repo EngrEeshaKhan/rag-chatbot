@@ -26,7 +26,7 @@ RAG Chatbot allows users to:
 2. Ask questions about the content of the uploaded PDFs
 3. Receive accurate answers generated using a **local LLM** powered by a **LangChain RAG pipeline**
 
-The system integrates PDF processing, text chunking, vector embeddings, similarity search, and LLM-based answer generation.
+The system integrates PDF processing, text chunking, vector embeddings, similarity search, and LLM-based answer generation
 
 ---
 
