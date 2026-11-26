@@ -90,7 +90,7 @@ style.css
 - 📤 `/upload` — Upload PDF files  
 - ❓ `/ask` — Ask questions about uploaded PDFs  
 
-- 🐳 **Docker Support** — Containerized deployment
+- 🐳 **Docker Support** — Containerized deployments
 
 
 ## Installation
