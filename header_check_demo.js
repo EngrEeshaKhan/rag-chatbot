@@ -1,4 +1,4 @@
-// TEST FILE for TestNexus header check — fake values only, delete after testing.
+// TEST FILE for TestNexus header check — fake values only, delete after testing....
 fetch('/api/data', {
   headers: {
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.FAKE.TOKEN123456',
